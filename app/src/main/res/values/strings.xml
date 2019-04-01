@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WheatherTask</string>
+    <string name="summary">Bu gun hava buludludur</string>
+    <string name="max_temprature">Maksimum tempratur: 36 C</string>
+    <string name="min_temprature">Minimum tempratur: 36 C</string>
+    <string name="humidity">Rutubət: 60%</string>
+    <string name="speed">Küləyin sürəti: 100km/saat</string>
+</resources>
